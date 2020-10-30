@@ -1,0 +1,28 @@
+h1{
+    color: hotpink;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: black;
+}
+
+h2{
+    color: gray;
+    background-color: aqua;
+    text-align: center;
+}
+
+h3{
+    color: red;
+}
+
+p{
+    font-weight: bold;
+}
+
+body{
+    background-image: url(../images/back1.jpg);
+    background-repeat: no-repeat;
+}
+

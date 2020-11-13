@@ -1,0 +1,47 @@
+h1{
+    color: white;
+    font-size: 30px;
+    background-color: blue;
+    text-align: center;
+    
+}
+
+h2{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+h3{
+    color: red;
+}
+
+p{
+    font-weight: bold;
+}
+
+table{
+    background-color: snow;
+    text-align: center;
+}
+
+ol{
+    background-image: url(../images/wood.jpeg);
+}
+
+.box1 {
+    padding: 0em 0em;
+    margin: 1em;
+    font-weight: bold;
+    border: solid 2px #FFFFFF;
+    background-color:blue;
+}
+
+body{
+   /* background-color: #486d46;   */        /* 背景色 */
+   background-image: url(../images/samapoke_back.jpg); /* 画像 */
+   background-size: cover;               /* 全画面 */
+   background-attachment: fixed;         /* 固定 */
+   background-position: center center;   /* 縦横中央 */
+}
+

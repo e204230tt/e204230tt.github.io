@@ -1,0 +1,46 @@
+.h1_1{
+    color: white;
+    font-size: 30px;
+    background-color: blue;
+    text-align: center;
+    
+}
+.h1_2{
+    color: white;
+    font-size: 30px;
+    background-color: black;
+    text-align: center;
+    
+}
+
+
+.h2_1{
+    color: hotpink;
+    background-color: aqua;
+    text-align: center;
+}
+.h2_2{
+    color: aqua;
+    background-color: hotpink;
+    text-align: center;
+}
+
+
+p{
+    font-weight: bold;
+}
+
+
+ol{
+    background-image: url(../images/wood.jpeg);
+}
+
+
+body{
+   /* background-color: #486d46;   */        /* 背景色 */
+   background-image: url(../images/samapoke_back.jpg); /* 画像 */
+   background-size: cover;               /* 全画面 */
+   background-attachment: fixed;         /* 固定 */
+   background-position: center center;   /* 縦横中央 */
+}
+

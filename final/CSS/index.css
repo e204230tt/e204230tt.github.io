@@ -1,0 +1,135 @@
+div.FONT {
+    font-size: 10;
+}
+
+p {
+    font-size: ;
+}
+
+div.title {
+    height: 50px;
+    background-color: aqua;
+    font-size: 40px;
+    font-family: "Inpact";
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+div.footer {
+    height: 20px;
+    background-color: gainsboro;
+    font-size: 15px;
+    font-family: "Inpact";
+    text-align: right;
+}
+
+div.aaa {
+    vertical-align: bottom;
+    margin-bottom: 20px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.bbb {
+    vertical-align: bottom;
+    margin-bottom: 20px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.ccc {
+    height: 376px;
+    vertical-align: bottom;
+    margin-bottom: 20px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.ddd {
+    vertical-align: bottom;
+    margin-bottom: 20px;
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: top;
+}
+
+div.side {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+div.aclink {
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+span.menuitem {
+    display: inline-block;
+    vertical-align: top;
+    color: hotpink;
+    width: 303px;
+    height: 60px;
+    background-color: beige;
+    font-size: 40px;
+    font-family: "Inpact";
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+span.menuitem2 {
+    display: inline-block;
+    vertical-align: bottom;
+    color: hotpink;
+    width: 303px;
+    height: 60px;
+    background-color: beige;
+    font-size: 40px;
+    font-family: "Inpact";
+    text-align: center;
+    padding: 10px;
+}
+
+.h2_1 {
+    color: hotpink;
+    background-color: aqua;
+    text-align: center;
+    font-family: "Inpact";
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+}
+
+div.cc_1{
+    display: inline-block;
+    vertical-align: top;
+    text-align:center;
+    line-height: 6;
+    width: 500px;
+    height: 370px;
+    background-color: white;
+
+}
+
+div.cc_2{
+    display: inline-block;
+    vertical-align: bottom;
+    text-align:center;    
+    width: 490px;
+    height: 370px;
+}
+
+body{
+   background-image: url(../images/samapoke_back.jpg); /* 画像 */
+   background-size: cover;               /* 全画面 */
+   background-attachment: fixed;         /* 固定 */
+   background-position: center center;   /* 縦横中央 */
+}

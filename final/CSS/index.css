@@ -8,9 +8,9 @@ p {
 
 div.title {
     height: 50px;
-    background-color: aqua;
     font-size: 40px;
     font-family: "Inpact";
+    font-weight: 700;
     margin-bottom: 20px;
     text-align: center;
     padding: 20px;
@@ -27,7 +27,7 @@ div.footer {
 div.aaa {
     vertical-align: bottom;
     margin-bottom: 20px;
-    background-color: white;
+    background-color: beige;
     font-size: 20px;
     text-align: center;
     vertical-align: top;
@@ -36,7 +36,7 @@ div.aaa {
 div.bbb {
     vertical-align: bottom;
     margin-bottom: 20px;
-    background-color: white;
+    background-color: beige;
     font-size: 20px;
     text-align: center;
     vertical-align: top;
@@ -46,7 +46,7 @@ div.ccc {
     height: 376px;
     vertical-align: bottom;
     margin-bottom: 20px;
-    background-color: white;
+    background-color: beige;
     font-size: 20px;
     text-align: center;
     vertical-align: top;
@@ -55,7 +55,7 @@ div.ccc {
 div.ddd {
     vertical-align: bottom;
     margin-bottom: 20px;
-    background-color: white;
+    background-color: beige;
     font-size: 20px;
     text-align: center;
     vertical-align: top;
@@ -74,7 +74,7 @@ div.aclink {
 span.menuitem {
     display: inline-block;
     vertical-align: top;
-    color: hotpink;
+    color: black;
     width: 303px;
     height: 60px;
     background-color: beige;
@@ -88,7 +88,7 @@ span.menuitem {
 span.menuitem2 {
     display: inline-block;
     vertical-align: bottom;
-    color: hotpink;
+    color: black;
     width: 303px;
     height: 60px;
     background-color: beige;
@@ -99,8 +99,8 @@ span.menuitem2 {
 }
 
 .h2_1 {
-    color: hotpink;
-    background-color: aqua;
+    color: beige;
+    background-color: firebrick;
     text-align: center;
     font-family: "Inpact";
     font-size: 30px;
@@ -128,7 +128,7 @@ div.cc_2 {
 }
 
 body {
-    background-image: url(../images/samapoke_back.jpg);
+    background-image: url(../images/fan_back.jpg);
     /* 画像 */
     background-size: cover;
     /* 全画面 */

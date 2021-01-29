@@ -105,13 +105,13 @@ span.menuitem2 {
     font-family: "Inpact";
     font-size: 30px;
     margin-bottom: 20px;
-    
+
 }
 
-div.cc_1{
+div.cc_1 {
     display: inline-block;
     vertical-align: top;
-    text-align:center;
+    text-align: center;
     line-height: 6;
     width: 500px;
     height: 370px;
@@ -119,17 +119,21 @@ div.cc_1{
 
 }
 
-div.cc_2{
+div.cc_2 {
     display: inline-block;
     vertical-align: bottom;
-    text-align:center;    
+    text-align: center;
     width: 490px;
     height: 370px;
 }
 
-body{
-   background-image: url(../images/samapoke_back.jpg); /* 画像 */
-   background-size: cover;               /* 全画面 */
-   background-attachment: fixed;         /* 固定 */
-   background-position: center center;   /* 縦横中央 */
+body {
+    background-image: url(../images/samapoke_back.jpg);
+    /* 画像 */
+    background-size: cover;
+    /* 全画面 */
+    background-attachment: fixed;
+    /* 固定 */
+    background-position: center center;
+    /* 縦横中央 */
 }
